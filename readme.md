@@ -9,4 +9,4 @@ Building tips:<br>
 需要windows.h conio.h 相關函式庫，並使用C++11標準編譯，在安裝minigw64的Windows系統下可順利使用本repository的makefile建置
 
 Demo Video:<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ot-9vuc0irs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo Video](https://img.youtube.com/vi/Ot-9vuc0irs/0.jpg)](https://www.youtube.com/watch?v=Ot-9vuc0irs)
